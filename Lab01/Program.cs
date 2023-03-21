@@ -48,7 +48,7 @@ namespace Lab_1._1
                 Console.Write("Địa chỉ: ");
                 employee.Address = Console.ReadLine();
 
-                Console.Write("Ngày sinh (dd/mm/yyyy): ");
+                Console.Write("Ngày sinh (mm/dd/yyyy): ");
                 employee.Birthday = DateTime.Parse(Console.ReadLine());
 
                 Console.Write("Lương: ");

@@ -6,3 +6,11 @@ D:\Users\Smile\source\repos\Lab_1.1\obj\Debug\Lab_1.1.csproj.SuggestedBindingRed
 D:\Users\Smile\source\repos\Lab_1.1\obj\Debug\Lab_1.1.csproj.CoreCompileInputs.cache
 D:\Users\Smile\source\repos\Lab_1.1\obj\Debug\Lab_1.1.exe
 D:\Users\Smile\source\repos\Lab_1.1\obj\Debug\Lab_1.1.pdb
+D:\SmartGit\Lab_Homework\Lab01\bin\Debug\Lab_1.1.exe.config
+D:\SmartGit\Lab_Homework\Lab01\bin\Debug\Lab_1.1.exe
+D:\SmartGit\Lab_Homework\Lab01\bin\Debug\Lab_1.1.pdb
+D:\SmartGit\Lab_Homework\Lab01\obj\Debug\Lab_1.1.csproj.AssemblyReference.cache
+D:\SmartGit\Lab_Homework\Lab01\obj\Debug\Lab_1.1.csproj.SuggestedBindingRedirects.cache
+D:\SmartGit\Lab_Homework\Lab01\obj\Debug\Lab_1.1.csproj.CoreCompileInputs.cache
+D:\SmartGit\Lab_Homework\Lab01\obj\Debug\Lab_1.1.exe
+D:\SmartGit\Lab_Homework\Lab01\obj\Debug\Lab_1.1.pdb

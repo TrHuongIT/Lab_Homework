@@ -10,6 +10,8 @@ namespace Lab03
     {
         static void Main(string[] args)
         {
+            Console.InputEncoding = Console.OutputEncoding = Encoding.UTF8;
+
             Lab31();
             Lab32 lab32 = new Lab32();
             lab32.Lab32Show();
