@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Lab_4._1.Account" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAIAAAAQgIAAEIAAAAEAAI=</HashCode>
+      <FileName>Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4._1.CheckAccount" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAIAAAAAAAAEAAI=</HashCode>
+      <FileName>CheckAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4._1.Program" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4._1.SavingMoney" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SavingMoney.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4._1.Button" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Train\Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4._1.Car" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACACAAAAAAAEAwAACAIAAEAAIAAAAAAAAAA=</HashCode>
+      <FileName>Train\Car.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lab_4._1.Circle" Collapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAABAAAAAAIAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Train\Circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4._1.ListBox" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Train\ListBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4._1.Rectangle" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Train\Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4._1.Shape" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABCAAAAAAAQEAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Train\Shape.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4._1.Student" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAEAAAAAAAAAAAAAAAAAQAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Train\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4._1.StudentCollege" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAIAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Train\StudentCollege.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4._1.StudentUniversity" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAIAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Train\StudentUniversity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4._1.Window" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAIAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Train\Window.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_4._1.Train.XeDap" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Train\XeDap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Lab_4._1.IDrivable" Collapsed="true">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAIAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Train\IDrivable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Lab_4._1.IMovable" Collapsed="true">
+    <Position X="3.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Train\IMovable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Lab_4._1.ISteerable" Collapsed="true">
+    <Position X="6.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Train\ISteerable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
